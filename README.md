@@ -1,5 +1,5 @@
- <p align="center">
-    <img src="![goshiki](https://github.com/user-attachments/assets/2111e6f0-cc65-4c10-a6ee-731da4ec0504)">
+<p align="center">
+<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/31de26f6-221f-4b9b-9ccb-d2af454f0e39" />
 </p>
 
 
